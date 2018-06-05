@@ -1,0 +1,29 @@
+[
+    {
+        "image": "../images/2.jpg",
+        "audio": "../mp3/SUN.mp3",
+        "song": "唱腔另类",
+        "album": "唱腔另类",
+        "singer": "SUN小洁",
+        "duration": 110,
+        "isLike": true
+    },
+    {
+        "image": "../images/song_2.jpg",
+        "audio": "../mp3/2.mp3",
+        "song": "小半",
+        "album": "小梦大半",
+        "singer": "陈粒",
+        "duration": 297,
+        "isLike": false
+    },
+    {
+        "image": "../images/song_3.jpg",
+        "audio": "../mp3/song_3.mp3",
+        "song": "Shape of You",
+        "album": "÷",
+        "singer": "ed sheeran",
+        "duration": 235,
+        "isLike": false
+    }
+]
